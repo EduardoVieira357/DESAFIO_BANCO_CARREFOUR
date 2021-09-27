@@ -5,7 +5,7 @@ Autor: Eduardo Vieira
 
 
 Objetivos:
-Demostrar o conhecimento adquirido nos Bootcamp Date Enginner Banco Carrefour.  
+Demostrar o conhecimento adquirido no Bootcamp Date Enginner Banco Carrefour.  
 
 Metodologia:
 Na primeira parte do projeto, extrair os “Trendings Topics” de quatro Países (Brasil, Portugal, França e Estados Unidos) e salvar um dataframe, sem alterações (RAW), no MongoDB online (conta gratuita).
